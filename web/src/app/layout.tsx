@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "OREDIG | Ore Mining Voxel Game on Solana",
-    description: "Browser-based high-stakes voxel metaverse and ore-mining game built natively on Solana.",
+    description: "Mine. Survive. Own on-chain assets. A browser-based high-stakes voxel metaverse built natively on Solana.",
     url: "https://oredig.com",
     siteName: "OREDIG",
     images: [
