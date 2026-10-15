@@ -1,0 +1,19 @@
+{
+  "name": "OREDIG",
+  "title": "OREDIG — Ore Mining Voxel Game on Solana",
+  "description": "Browser-based high-stakes voxel metaverse and ore-mining game built natively on Solana. Mine blocks, survive the frontier, and own on-chain assets.",
+  "url": "https://oredig.com",
+  "ogImage": "/og.jpg",
+  "favicon": "/favicon.ico",
+  "themeColor": "#0a0f0a",
+  "palette": {
+    "background": "#010409",
+    "foreground": "#e8f5e8",
+    "accent": "#00ff9f",
+    "ore": "#c8a45d",
+    "danger": "#ff4d4d",
+    "muted": "#6b7c6b"
+  },
+  "twitter": "@Codesbyfebin",
+  "github": "https://github.com/CodesbyFebin/Oredig"
+}

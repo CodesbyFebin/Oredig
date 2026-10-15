@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #010409;
+  --color-foreground: #e8f5e8;
+  --color-primary: #00ff9f;
+  --color-primary-foreground: #FFFFFF;
+  --color-secondary: #F4F4F5;
+  --color-secondary-foreground: #18181B;
+  --color-accent: #E4E4E7;
+  --color-accent-foreground: #18181B;
+  --color-muted: #F4F4F5;
+  --color-muted-foreground: #71717A;
+  --color-border: #E4E4E7;
+  --ease-custom: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+:root {
+  --background: #010409;
+  --foreground: #e8f5e8;
+}
+
+/* Explicit font-family application — reliable across all Tailwind v4 builds */
+body {
+  background-color: #010409;
+  color: #e8f5e8;
+  font-family: var(--font-inter), 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: auto;
+}
